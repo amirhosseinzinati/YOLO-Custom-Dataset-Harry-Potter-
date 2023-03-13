@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Colab Notebooks/YOLOv8/data/train/images
+val: /content/drive/MyDrive/Colab Notebooks/YOLOv8/data/val/images
+
+nc: 5
+names: ['Ron Weasley','Hermione Granger','Harry Potter','Lord Voldemort','Neville Longbottom']
