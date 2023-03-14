@@ -1,3 +1,3 @@
-# YOLO-Custom-Dataset-Harry-Potter-
+# YOLO-Custom-Dataset-Harry-Potter
 
 dataset : https://www.kaggle.com/datasets/amirhosseinzinati/harry-potter
